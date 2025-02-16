@@ -36,6 +36,9 @@
     <ClCompile Include="HistoryControll.cpp">
       <Filter>Resource Files\MenuGUI</Filter>
     </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MainLogin.h">
@@ -52,6 +55,9 @@
     </ClInclude>
     <ClInclude Include="HistoryControll.h">
       <Filter>Resource Files\MenuGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

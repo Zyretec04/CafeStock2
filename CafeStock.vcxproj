@@ -124,6 +124,7 @@
     <ClCompile Include="Dashboard.cpp" />
     <ClCompile Include="HistoryControll.cpp" />
     <ClCompile Include="InventoryMenu.cpp" />
+    <ClCompile Include="Item.cpp" />
     <ClCompile Include="MainLogin.cpp" />
     <ClCompile Include="Menumain.cpp" />
   </ItemGroup>
@@ -137,6 +138,7 @@
     <ClInclude Include="InventoryMenu.h">
       <FileType>CppControl</FileType>
     </ClInclude>
+    <ClInclude Include="Item.h" />
     <ClInclude Include="MainLogin.h">
       <FileType>CppForm</FileType>
     </ClInclude>
